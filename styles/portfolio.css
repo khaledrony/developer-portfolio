@@ -187,3 +187,9 @@ main section {
     text-align: center;
     margin-top: 50px;
 }
+footer{
+    display: flex;
+    padding: 150px 200px;
+    background: #f3e5db;
+    margin-top: 100px;
+}
