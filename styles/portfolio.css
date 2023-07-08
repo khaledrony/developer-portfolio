@@ -9,6 +9,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 
 .nav-title {
@@ -46,6 +47,16 @@ nav a {
     color: aliceblue;
     font-weight: 700;
     padding: 15px 35px;
-
+}
+.header{
+    background: #f3e5db;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile{
+    width: 500px;
 
 }
